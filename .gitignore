@@ -1,0 +1,6 @@
+# Common for static websites
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
